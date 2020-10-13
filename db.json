@@ -1,0 +1,67 @@
+{
+   "templates": [
+      {
+         "name": "Modern Service",
+         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque id porttitor enim.",
+         "fullDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque id porttitor enim. In molestie quam posuere interdum. Sed. Morbi nec vestibulum as this is the full text here and description.",
+         "price": "30",
+         "heading": "Modern Service",
+         "subheading": "Powerful analytics tool!",
+         "frameworks": [
+            "React",
+            "Vue",
+            "HTML"
+         ],
+         "styles": [
+            "tailwind",
+            "css"
+         ],
+         "stacks": [
+            true,
+            true,
+            false,
+            false,
+            true,
+            true
+         ],
+         "type": "SaaS",
+         "image": "https://i.ibb.co/m8dfzz2/Screenshot-2020-09-20-at-16-14-43.png"
+      },
+      {
+         "name": "Super Mega Newsletter",
+         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque id porttitor enim. In molestie quam posuere interdum. Sed...",
+         "price": "30",
+         "heading": "Grow Your Audience",
+         "subheading": "Deliver content better than ever",
+         "frameworks": [
+            "React",
+            "Vue",
+            "HTML"
+         ],
+         "styles": [
+            "tailwind",
+            "css"
+         ],
+         "type": "Newsletter",
+         "image": "https://i.ibb.co/m8dfzz2/Screenshot-2020-09-20-at-16-14-43.png"
+      },
+      {
+         "name": "Mister Portfolioer",
+         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque id porttitor enim. In molestie quam posuere interdum. Sed...",
+         "price": "30",
+         "heading": "Portfolio Master",
+         "subheading": "Show others who is boss!",
+         "frameworks": [
+            "React",
+            "Vue",
+            "HTML"
+         ],
+         "styles": [
+            "tailwind",
+            "css"
+         ],
+         "type": "Portfolio",
+         "image": "https://i.ibb.co/m8dfzz2/Screenshot-2020-09-20-at-16-14-43.png"
+      }
+   ]
+}
