@@ -32,7 +32,9 @@
             "https://i.ibb.co/QMWHk9B/image.png",
             "https://i.ibb.co/qs3SVJQ/image.png",
             "https://i.ibb.co/7WfFy2Q/image.png"
-         ]
+         ],
+         "buyLink": "https://gumroad.com/l/demo",
+         "previewLink": "https://mailchimp.com/"
       },
       {
          "id": "duper-mega-newsletter",
@@ -66,7 +68,9 @@
             "https://i.ibb.co/QMWHk9B/image.png",
             "https://i.ibb.co/qs3SVJQ/image.png",
             "https://i.ibb.co/7WfFy2Q/image.png"
-         ]
+         ],
+         "buyLink": "https://gumroad.com/l/demo",
+         "previewLink": "https://mailchimp.com/"
       },
       {
          "id": "mister-portfolioer",
@@ -100,7 +104,9 @@
             "https://i.ibb.co/QMWHk9B/image.png",
             "https://i.ibb.co/qs3SVJQ/image.png",
             "https://i.ibb.co/7WfFy2Q/image.png"
-         ]
+         ],
+         "buyLink": "https://gumroad.com/l/demo",
+         "previewLink": "https://mailchimp.com/"
       }
    ]
 }
