@@ -25,7 +25,13 @@
             true
          ],
          "type": "SaaS",
-         "image": "https://i.ibb.co/m8dfzz2/Screenshot-2020-09-20-at-16-14-43.png"
+         "image": "https://i.ibb.co/m8dfzz2/Screenshot-2020-09-20-at-16-14-43.png",
+         "gallery": [
+            "https://i.ibb.co/zZR7S1t/image.png",
+            "https://i.ibb.co/QMWHk9B/image.png",
+            "https://i.ibb.co/qs3SVJQ/image.png",
+            "https://i.ibb.co/7WfFy2Q/image.png"
+         ]
       },
       {
          "name": "Super Mega Newsletter",
@@ -43,7 +49,13 @@
             "css"
          ],
          "type": "Newsletter",
-         "image": "https://i.ibb.co/m8dfzz2/Screenshot-2020-09-20-at-16-14-43.png"
+         "image": "https://i.ibb.co/m8dfzz2/Screenshot-2020-09-20-at-16-14-43.png",
+         "gallery": [
+            "https://i.ibb.co/zZR7S1t/image.png",
+            "https://i.ibb.co/QMWHk9B/image.png",
+            "https://i.ibb.co/qs3SVJQ/image.png",
+            "https://i.ibb.co/7WfFy2Q/image.png"
+         ]
       },
       {
          "name": "Mister Portfolioer",
@@ -61,7 +73,13 @@
             "css"
          ],
          "type": "Portfolio",
-         "image": "https://i.ibb.co/m8dfzz2/Screenshot-2020-09-20-at-16-14-43.png"
+         "image": "https://i.ibb.co/m8dfzz2/Screenshot-2020-09-20-at-16-14-43.png",
+         "gallery": [
+            "https://i.ibb.co/zZR7S1t/image.png",
+            "https://i.ibb.co/QMWHk9B/image.png",
+            "https://i.ibb.co/qs3SVJQ/image.png",
+            "https://i.ibb.co/7WfFy2Q/image.png"
+         ]
       }
    ]
 }
