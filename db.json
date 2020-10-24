@@ -50,6 +50,14 @@
             "tailwind",
             "css"
          ],
+         "stacks": [
+            true,
+            true,
+            false,
+            false,
+            true,
+            true
+         ],
          "type": "Newsletter",
          "image": "https://i.ibb.co/m8dfzz2/Screenshot-2020-09-20-at-16-14-43.png",
          "gallery": [
@@ -74,6 +82,14 @@
          "styles": [
             "tailwind",
             "css"
+         ],
+         "stacks": [
+            true,
+            true,
+            false,
+            false,
+            true,
+            true
          ],
          "type": "Portfolio",
          "image": "https://i.ibb.co/m8dfzz2/Screenshot-2020-09-20-at-16-14-43.png",
